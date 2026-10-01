@@ -1,0 +1,206 @@
+{
+  "days": {
+    "2026-09-27": {
+      "date": "2026-09-27",
+      "projects": [
+        {
+          "name": "Stagwell AI",
+          "sections": [
+            {
+              "items": [
+                "Products reordered to the client's suite order (deck from Sep 27), with the description, Who it's for, three capabilities and image line for every product",
+                "Every product card has the same shape. The tabbed multi-product groups and the problem rail were removed",
+                "Added the 11 new pictures from the client's folder (1600px). QuestBrand, IMAI, SMBs, Search+, ID Graph and New Voices kept their pictures",
+                "Picture and title link to the product page, not only the Explore button",
+                "Hero paragraph replaced with the deck's two-sentence suite intro",
+                "The Show me list is back, in the suite order",
+                "Hero text lines up with the product rows' gutters on wide screens (above 1180px)",
+                "Product names sized to the line on the picture. Hover dims the name instead of underlining",
+                "New Voices shows a still image like the other products",
+                "Search+ uses the deck's dark ring picture (slide 17). QuestBrand uses the walker picture from the deck",
+                "On phones: a vertical list, one product under the other. The carousel is off but kept behind a switch, and the who/what fold behind the + works on every card"
+              ],
+              "title": "/products page"
+            },
+            {
+              "items": [
+                "On wide screens the link columns start at the logo's left edge and sit close together, with a 40px gutter on both bands",
+                "The second column's links all start on the same left edge"
+              ],
+              "title": "Footer"
+            },
+            {
+              "items": [
+                "QuestDIY-style fan scene on every product page, with the /products picture in the center",
+                "Fan tuned: landscape center picture, tighter notes and rotations. New Voices uses its /products still",
+                "Related-product cards on every product page. Companions filled in for GEOPulse, Media Machine, NewIntel, Search+ and ID Graph, and the section added to the four hand-built pages",
+                "Related-card pictures match /products, and subtitles use the /products overlay caption",
+                "New Voices note uses a tab pastel next to its navy still",
+                "The client logo band names Stagwell AI, so the logos read as the group's clients"
+              ],
+              "title": "Product pages"
+            },
+            {
+              "items": [
+                "Removed the testimonials placeholder line from By the numbers"
+              ],
+              "title": "Agent Cloud"
+            }
+          ],
+          "source": "Fixes from the docs · 12 commits · julianLDRS/stagwell-ai · 11:45–13:39"
+        },
+        {
+          "name": "NewIntel",
+          "sections": [
+            {
+              "items": [
+                "Logo update"
+              ],
+              "title": "Logo"
+            }
+          ]
+        },
+        {
+          "name": "InfluencerMarketing.Ai",
+          "sections": [
+            {
+              "items": [
+                "Built the split-screen MQL onboarding prototype: intro on the left over an image, questions on the right",
+                "Mobile: stacked layout, the intro shrinks to a compact header after question 1, and a sticky Skip bar stays at the bottom",
+                "Poppins type, keyboard answers 1–5, back navigation, and a mql:complete event that carries the answers",
+                "Hero photo added with a dark overlay so the text stays readable. Intro text anchored to the bottom so it doesn't cover the face",
+                "Boxed 1–5 keys replaced with a plain text tip",
+                "InfluencerMarketing.Ai logo in white (the four-color mark unchanged), and the icon added as the favicon",
+                "Welcome icon changed to a waving Lucide hand"
+              ],
+              "title": "MQL onboarding"
+            }
+          ],
+          "source": "7 commits · julianLDRS/imai-mql · MQL onboarding"
+        }
+      ],
+      "summary": "Three things today: the Stagwell AI fixes from the docs, the NewIntel logo update, and the InfluencerMarketing.Ai MQL onboarding."
+    },
+    "2026-09-28": {
+      "date": "2026-09-28",
+      "projects": [
+        {
+          "name": "NewIntel",
+          "sections": [
+            {
+              "items": [
+                "Updated to NewIntel across the site, dashboards, mockups and tooltip pages",
+                "Live site published"
+              ],
+              "title": "Rebrand"
+            }
+          ]
+        },
+        {
+          "name": "Stagwell AI",
+          "sections": [
+            {
+              "items": [
+                "Small updates on all product pages and /products"
+              ],
+              "title": "Product pages"
+            }
+          ]
+        }
+      ],
+      "summary": "NewIntel rebrand across the site, dashboards, mockups and tooltip pages. Small updates on the Stagwell AI product pages."
+    },
+    "2026-09-29": {
+      "date": "2026-09-29",
+      "projects": [
+        {
+          "name": "NewIntel",
+          "sections": [
+            {
+              "items": [
+                "Updated the NewIntel logo"
+              ],
+              "title": "Logo update"
+            },
+            {
+              "items": [
+                "New logo added across the website",
+                "NewIntel name updated across all sites and dashboards"
+              ],
+              "title": "Site update"
+            }
+          ]
+        }
+      ],
+      "summary": "NewIntel: logo updated, then the site updated with the new logo and the NewIntel name across all sites and dashboards."
+    },
+    "2026-09-30": {
+      "date": "2026-09-30",
+      "projects": [
+        {
+          "name": "Stagwell AI",
+          "sections": [
+            {
+              "items": [
+                "Client fixes on all product pages: hero button and external links removed, product owners' copy added",
+                "New From signal to action section on the four Stagwell Machines pages",
+                "Call my phone added next to Book a demo on every page"
+              ],
+              "title": "Product pages"
+            },
+            {
+              "items": [
+                "Client fixes: updated intro copy, new order, new UNICEPTA picture, Show me lists the solutions"
+              ],
+              "title": "/products"
+            }
+          ]
+        }
+      ],
+      "summary": "Stagwell AI: client fixes on the product pages and /products, and the new From signal to action section."
+    },
+    "2026-10-01": {
+      "date": "2026-10-01",
+      "projects": [
+        {
+          "name": "Stagwell AI",
+          "sections": [
+            {
+              "items": [
+                "Owners' copy on more product pages, including the rename to NEW by Stagwell AI",
+                "Mockups for every tab on the product pages, based on each team's own screens, with animation",
+                "Maps, model logos and team wordmarks added to the pages"
+              ],
+              "title": "Product pages"
+            },
+            {
+              "items": [
+                "Show me rebuilt as the client's Solutions by FAQs dropdown",
+                "Home: Expertise awards reel, and suite cards use the /products pictures"
+              ],
+              "title": "/products and home"
+            }
+          ]
+        },
+        {
+          "name": "NEW by Stagwell AI",
+          "sections": [
+            {
+              "items": [
+                "Worked on the NEW by Stagwell AI logo"
+              ],
+              "title": "Logo"
+            }
+          ]
+        }
+      ],
+      "summary": "Stagwell AI: product page copy and mockups, /products Show me dropdown, home updates. NEW by Stagwell AI logo."
+    }
+  },
+  "weeks": {
+    "2026-09-27": {
+      "body": "Hi,\n\nHere's a summary of what I worked on this week:\n\nStagwell AI\n• /products rebuilt from the client deck: new suite order, same card for every product, new pictures, and a vertical list on phones\n• The Show me menu rebuilt as the client's Solutions by FAQs dropdown\n• All client fixes from the docs applied on the product pages and /products\n• The product owners' copy added to the product pages\n• New on every product page: the fan scene, related-product cards, and a mockup for each tab based on each team's own screens\n• New From signal to action section on the four Stagwell Machines pages\n• Footer alignment, a Call my phone button on every page, and updates on the home page (Expertise awards reel, suite pictures)\n\nNewIntel\n• Logo updated\n• The site updated with the new logo, and the NewIntel name applied across all sites, dashboards, mockups and tooltip pages\n\nNEW by Stagwell AI\n• Worked on the new logo\n\nInfluencerMarketing.Ai\n• Built the MQL onboarding prototype: split-screen layout on desktop and a stacked layout on mobile, with the new logo and hero photo\n\nThanks,\nJulian",
+      "subject": "Weekly summary · Sep 27 – Oct 3, 2026"
+    }
+  }
+}
