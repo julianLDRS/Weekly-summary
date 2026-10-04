@@ -198,7 +198,7 @@
     },
     "2026-10-04": {
       "date": "2026-10-04",
-      "summary": "NewIntel pricing update and the NEW by Stagwell AI logo.",
+      "summary": "NewIntel pricing update. NEW by Stagwell AI logo and new login screen.",
       "projects": [
         {
           "name": "NewIntel",
@@ -219,6 +219,12 @@
               "items": [
                 "Worked on the NEW by Stagwell AI logo"
               ]
+            },
+            {
+              "title": "Login screen",
+              "items": [
+                "Designed the new login screen"
+              ]
             }
           ]
         }
@@ -232,7 +238,7 @@
     },
     "2026-10-04": {
       "subject": "Weekly summary · Oct 4 – Oct 10, 2026",
-      "body": "Hi,\n\nHere's a summary of what I worked on this week:\n\nNewIntel\n• Updated the pricing on the NewIntel page\n\nNEW by Stagwell AI\n• Worked on the NEW by Stagwell AI logo\n\nThanks,\nJulian"
+      "body": "Hi,\n\nHere's a summary of what I worked on this week:\n\nNewIntel\n• Updated the pricing on the NewIntel page\n\nNEW by Stagwell AI\n• Worked on the NEW by Stagwell AI logo\n• Designed the new login screen\n\nThanks,\nJulian"
     }
   }
 }
