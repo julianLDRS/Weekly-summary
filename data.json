@@ -195,12 +195,44 @@
         }
       ],
       "summary": "Stagwell AI: product page copy and mockups, /products Show me dropdown, home updates. NEW by Stagwell AI logo."
+    },
+    "2026-10-04": {
+      "date": "2026-10-04",
+      "summary": "NewIntel pricing update and the NEW by Stagwell AI logo.",
+      "projects": [
+        {
+          "name": "NewIntel",
+          "sections": [
+            {
+              "title": "Pricing",
+              "items": [
+                "Updated the pricing on the NewIntel page"
+              ]
+            }
+          ]
+        },
+        {
+          "name": "NEW by Stagwell AI",
+          "sections": [
+            {
+              "title": "Logo",
+              "items": [
+                "Worked on the NEW by Stagwell AI logo"
+              ]
+            }
+          ]
+        }
+      ]
     }
   },
   "weeks": {
     "2026-09-27": {
       "body": "Hi,\n\nHere's a summary of what I worked on this week:\n\nStagwell AI\n• /products rebuilt from the client deck: new suite order, same card for every product, new pictures, and a vertical list on phones\n• The Show me menu rebuilt as the client's Solutions by FAQs dropdown\n• All client fixes from the docs applied on the product pages and /products\n• The product owners' copy added to the product pages\n• New on every product page: the fan scene, related-product cards, and a mockup for each tab based on each team's own screens\n• New From signal to action section on the four Stagwell Machines pages\n• Footer alignment, a Call my phone button on every page, and updates on the home page (Expertise awards reel, suite pictures)\n\nNewIntel\n• Logo updated\n• The site updated with the new logo, and the NewIntel name applied across all sites, dashboards, mockups and tooltip pages\n\nNEW by Stagwell AI\n• Worked on the new logo\n\nInfluencerMarketing.Ai\n• Built the MQL onboarding prototype: split-screen layout on desktop and a stacked layout on mobile, with the new logo and hero photo\n\nThanks,\nJulian",
       "subject": "Weekly summary · Sep 27 – Oct 3, 2026"
+    },
+    "2026-10-04": {
+      "subject": "Weekly summary · Oct 4 – Oct 10, 2026",
+      "body": "Hi,\n\nHere's a summary of what I worked on this week:\n\nNewIntel\n• Updated the pricing on the NewIntel page\n\nNEW by Stagwell AI\n• Worked on the NEW by Stagwell AI logo\n\nThanks,\nJulian"
     }
   }
 }
