@@ -15,7 +15,7 @@ Julian's daily work log. Julian tells Claude what they worked on, and Claude add
 
 ## How Julian wants entries written
 - Short: a line or two per thing, not every detail. Julian said not to type everything.
-- Each project is its own entry with its own name. These are separate projects, never sub-items of each other: Stagwell AI, NewIntel, NEW by Stagwell AI, InfluencerMarketing.Ai.
+- Each project is its own entry with its own name. These are separate projects, never sub-items of each other: Stagwell AI, NewIntel, NEW, InfluencerMarketing.Ai.
 - Some work is done without Claude, so there's no record of it. Write it the way Julian describes it, with no invented detail, and don't ask for proof.
 - Work done with Claude can be checked in the repos, e.g. `git log` in `julianLDRS/stagwell-ai` for the Stagwell AI site, and `julianLDRS/imai-mql` for InfluencerMarketing.Ai MQL onboarding.
 - Write the weekly email in plain English, signed "Julian".
