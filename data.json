@@ -232,7 +232,7 @@
     },
     "2026-10-05": {
       "date": "2026-10-05",
-      "summary": "Stagwell AI: worked on the site.",
+      "summary": "Stagwell AI: product pages, imagery, mobile menu, small fixes and polish.",
       "projects": [
         {
           "name": "Stagwell AI",
@@ -240,7 +240,9 @@
             {
               "title": "Site",
               "items": [
-                "Worked on the Stagwell AI site"
+                "Product pages and imagery",
+                "Mobile menu",
+                "Small fixes and polish across the site"
               ]
             }
           ]
@@ -255,7 +257,7 @@
     },
     "2026-10-04": {
       "subject": "Weekly summary · Oct 4 – Oct 10, 2026",
-      "body": "Hi,\n\nHere's a summary of what I worked on this week:\n\nNewIntel\n• Updated the pricing on the NewIntel page\n\nNEW\n• Worked on the NEW logo\n• Designed the new login screen\n\nStagwell AI\n• Worked on the Stagwell AI site\n\nThanks,\nJulian"
+      "body": "Hi,\n\nHere's a summary of what I worked on this week:\n\nNewIntel\n• Updated the pricing on the NewIntel page\n\nNEW\n• Worked on the NEW logo\n• Designed the new login screen\n\nStagwell AI\n• Product pages and imagery\n• Mobile menu\n• Small fixes and polish across the site\n\nThanks,\nJulian"
     }
   }
 }
