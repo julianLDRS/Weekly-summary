@@ -251,7 +251,7 @@
     },
     "2026-10-06": {
       "date": "2026-10-06",
-      "summary": "Stagwell AI: worked on the website.",
+      "summary": "Stagwell AI: product pages and mockups.",
       "projects": [
         {
           "name": "Stagwell AI",
@@ -259,7 +259,7 @@
             {
               "title": "Website",
               "items": [
-                "Worked on the Stagwell AI website"
+                "Worked on the product pages and mockups"
               ]
             }
           ]
@@ -268,7 +268,7 @@
     },
     "2026-10-07": {
       "date": "2026-10-07",
-      "summary": "Stagwell AI: worked on the website.",
+      "summary": "Stagwell AI: product pages and mockups.",
       "projects": [
         {
           "name": "Stagwell AI",
@@ -276,7 +276,35 @@
             {
               "title": "Website",
               "items": [
-                "Worked on the Stagwell AI website"
+                "Worked on the product pages and mockups"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    "2026-10-08": {
+      "date": "2026-10-08",
+      "summary": "Stagwell AI: product pages and mockups. InfluencerMarketing.Ai: pulled all the site's written content for the new website.",
+      "projects": [
+        {
+          "name": "Stagwell AI",
+          "sections": [
+            {
+              "title": "Website",
+              "items": [
+                "Worked on the product pages and mockups"
+              ]
+            }
+          ]
+        },
+        {
+          "name": "InfluencerMarketing.Ai",
+          "sections": [
+            {
+              "title": "Content",
+              "items": [
+                "Pulled all the written content from the InfluencerMarketing.Ai website and organized it for the new site"
               ]
             }
           ]
@@ -291,7 +319,7 @@
     },
     "2026-10-04": {
       "subject": "Weekly summary · Oct 4 – Oct 10, 2026",
-      "body": "Hi,\n\nHere's a summary of what I worked on this week:\n\nNewIntel\n• Updated the pricing on the NewIntel page\n\nNEW\n• Worked on the NEW logo\n• Designed the new login screen\n\nStagwell AI\n• Product pages and imagery\n• Mobile menu\n• Small fixes and polish across the site\n• Continued work on the Stagwell AI website\n\nThanks,\nJulian"
+      "body": "Hi,\n\nHere's a summary of what I worked on this week:\n\nStagwell AI\n• Worked on the product pages and mockups all week\n• Imagery, the mobile menu, small fixes and polish across the site\n\nNewIntel\n• Updated the pricing on the NewIntel page\n\nNEW\n• Worked on the NEW logo\n• Designed the new login screen\n\nInfluencerMarketing.Ai\n• Pulled all the written content from the website and organized it for the new site\n\nThanks,\nJulian"
     }
   }
 }
