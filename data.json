@@ -310,6 +310,45 @@
           ]
         }
       ]
+    },
+    "2026-10-11": {
+      "date": "2026-10-11",
+      "summary": "NEWPR hero Option B test, more InfluencerMarketing.Ai content, and the Stagwell AI website CMS.",
+      "projects": [
+        {
+          "name": "NEWPR",
+          "sections": [
+            {
+              "title": "Hero",
+              "items": [
+                "Tested hero Option B"
+              ]
+            }
+          ]
+        },
+        {
+          "name": "InfluencerMarketing.Ai",
+          "sections": [
+            {
+              "title": "Content",
+              "items": [
+                "Pulled more of the website's content, so all the text is ready for the new site"
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Stagwell AI",
+          "sections": [
+            {
+              "title": "CMS",
+              "items": [
+                "Building the CMS for the Stagwell AI website text"
+              ]
+            }
+          ]
+        }
+      ]
     }
   },
   "weeks": {
@@ -320,6 +359,10 @@
     "2026-10-04": {
       "subject": "Weekly summary · Oct 4 – Oct 10, 2026",
       "body": "Hi,\n\nHere's a summary of what I worked on this week:\n\nStagwell AI\n• Worked on the product pages and mockups all week\n• Imagery, the mobile menu, small fixes and polish across the site\n\nNewIntel\n• Updated the pricing on the NewIntel page\n\nNEW\n• Worked on the NEW logo\n• Designed the new login screen\n\nInfluencerMarketing.Ai\n• Pulled all the written content from the website and organized it for the new site\n\nThanks,\nJulian"
+    },
+    "2026-10-11": {
+      "subject": "Weekly summary · Oct 11 – Oct 17, 2026",
+      "body": "Hi,\n\nHere's a summary of what I worked on this week:\n\nNEWPR\n• Tested hero Option B\n\nInfluencerMarketing.Ai\n• Pulled more of the website's content, so all the text is ready for the new site\n\nStagwell AI\n• Building the CMS for the website text\n\nThanks,\nJulian"
     }
   }
 }
