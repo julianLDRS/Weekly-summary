@@ -343,7 +343,96 @@
             {
               "title": "CMS",
               "items": [
-                "Building the CMS for the Stagwell AI website text"
+                "Set up the CMS for the website text, behind a login: product pages, homepage, logo and favicon"
+              ]
+            },
+            {
+              "title": "Site",
+              "items": [
+                "New footer and rolling button labels"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    "2026-10-12": {
+      "date": "2026-10-12",
+      "summary": "Stagwell AI: new product page heroes, homepage Why section and suite rail.",
+      "projects": [
+        {
+          "name": "Stagwell AI",
+          "sections": [
+            {
+              "title": "Product pages",
+              "items": [
+                "New hero layout on every product page, each with its own moving picture"
+              ]
+            },
+            {
+              "title": "Homepage",
+              "items": [
+                "Why Stagwell AI section held on screen, suite cards as a sliding rail"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    "2026-10-13": {
+      "date": "2026-10-13",
+      "summary": "Stagwell AI: new All products layout, full-screen menu, buttons, related cards, interactions and polish.",
+      "projects": [
+        {
+          "name": "Stagwell AI",
+          "sections": [
+            {
+              "title": "All products page",
+              "items": [
+                "New layout went live: hero with typing labels, product rows with live pictures and films"
+              ]
+            },
+            {
+              "title": "Site",
+              "items": [
+                "Full-screen menu, one button style, frosted nav bar",
+                "New related-product cards on product pages",
+                "New images and animations, speed fixes, responsive and phone polish"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    "2026-10-14": {
+      "date": "2026-10-14",
+      "summary": "Stagwell AI: CMS settings and updates.",
+      "projects": [
+        {
+          "name": "Stagwell AI",
+          "sections": [
+            {
+              "title": "CMS",
+              "items": [
+                "CMS updated for the new design: All products and Book a demo pages, links and text colours"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    "2026-10-15": {
+      "date": "2026-10-15",
+      "summary": "Stagwell AI: client copy and edits.",
+      "projects": [
+        {
+          "name": "Stagwell AI",
+          "sections": [
+            {
+              "title": "Client edits",
+              "items": [
+                "NEW by Stagwell AI's new description",
+                "Product groups reordered and the Show me filter fixed"
               ]
             }
           ]
@@ -362,7 +451,7 @@
     },
     "2026-10-11": {
       "subject": "Weekly summary · Oct 11 – Oct 17, 2026",
-      "body": "Hi,\n\nHere's a summary of what I worked on this week:\n\nNEWPR\n• Designed and tested a new Option B for the hero\n\nInfluencerMarketing.Ai\n• Pulled more of the website's content, so all the text is ready for the new site\n\nStagwell AI\n• Building the CMS for the website text\n\nThanks,\nJulian"
+      "body": "Hi,\n\nHere's a summary of what I worked on this week:\n\nStagwell AI\n• Set up the CMS so the website text can be edited behind a login (product pages, homepage, logo and favicon), and updated it for the new design with links and text colours\n• Redesigned the All products page: new layout, hero with typing labels, and product rows with live pictures and films\n• New hero layout on every product page, each with its own moving picture\n• New images and animations across the site\n• Full-screen menu, one button style, new footer and related-product cards\n• Interactions, speed fixes and polish on desktop and phones\n• Client edits: NEW by Stagwell AI's new description, product groups reordered\n\nNEWPR\n• Designed and tested a new Option B for the hero\n\nInfluencerMarketing.Ai\n• Pulled more of the website's content, so all the text is ready for the new site\n\nThanks,\nJulian"
     }
   }
 }
