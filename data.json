@@ -438,6 +438,51 @@
           ]
         }
       ]
+    },
+    "2026-10-19": {
+      "date": "2026-10-19",
+      "summary": "InfluencerMarketing.Ai: homepage work.",
+      "projects": [
+        {
+          "name": "InfluencerMarketing.Ai",
+          "sections": [
+            {
+              "title": "Website",
+              "items": [
+                "Worked on the homepage"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    "2026-10-20": {
+      "date": "2026-10-20",
+      "summary": "Stagwell AI website changes, and more InfluencerMarketing.Ai website design.",
+      "projects": [
+        {
+          "name": "Stagwell AI",
+          "sections": [
+            {
+              "title": "Website",
+              "items": [
+                "Changes on the Stagwell AI website"
+              ]
+            }
+          ]
+        },
+        {
+          "name": "InfluencerMarketing.Ai",
+          "sections": [
+            {
+              "title": "Website",
+              "items": [
+                "Continued the design of the new website"
+              ]
+            }
+          ]
+        }
+      ]
     }
   },
   "weeks": {
@@ -452,6 +497,10 @@
     "2026-10-11": {
       "subject": "Weekly summary · Oct 11 – Oct 17, 2026",
       "body": "Hi,\n\nHere's a summary of what I worked on this week:\n\nStagwell AI\n• Set up the CMS so the website text can be edited behind a login (product pages, homepage, logo and favicon), and updated it for the new design with links and text colours\n• Redesigned the All products page: new layout, hero with typing labels, and product rows with live pictures and films\n• New hero layout on every product page, each with its own moving picture\n• New images and animations across the site\n• Full-screen menu, one button style, new footer and related-product cards\n• Interactions, speed fixes and polish on desktop and phones\n• Client edits: NEW by Stagwell AI's new description, product groups reordered\n\nNEWPR\n• Designed and tested Option B for the hero, with animations\n\nInfluencerMarketing.Ai\n• Finished pulling the website's content for the new site\n\nThanks,\nJulian"
+    },
+    "2026-10-18": {
+      "subject": "Weekly summary · Oct 18 – Oct 24, 2026",
+      "body": "Hi,\n\nHere's a summary of what I worked on this week:\n\nInfluencerMarketing.Ai\n• Worked on the homepage of the new website\n• Continued the design of the new website\n\nStagwell AI\n• Changes on the Stagwell AI website\n\nThanks,\nJulian"
     }
   }
 }
