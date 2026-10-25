@@ -458,15 +458,15 @@
     },
     "2026-10-20": {
       "date": "2026-10-20",
-      "summary": "Stagwell AI website changes, and more InfluencerMarketing.Ai website design.",
+      "summary": "Stagwell AI: Search+ page fixes. InfluencerMarketing.Ai: homepage design and polish.",
       "projects": [
         {
           "name": "Stagwell AI",
           "sections": [
             {
-              "title": "Website",
+              "title": "Search+ page",
               "items": [
-                "Changes on the Stagwell AI website"
+                "Client copy feedback, a new hero picture, and phone spacing on the product pages"
               ]
             }
           ]
@@ -475,9 +475,47 @@
           "name": "InfluencerMarketing.Ai",
           "sections": [
             {
-              "title": "Website",
+              "title": "Homepage",
               "items": [
-                "Continued the design of the new website"
+                "Interactive dashboard mockups that build themselves, a helix of creator faces, new footer",
+                "Phone pass and polish"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    "2026-10-21": {
+      "date": "2026-10-21",
+      "summary": "InfluencerMarketing.Ai: first product page, Influencer Marketing.",
+      "projects": [
+        {
+          "name": "InfluencerMarketing.Ai",
+          "sections": [
+            {
+              "title": "Influencer Marketing page",
+              "items": [
+                "Built the first product page: hero, Discover screen, real mockups, FAQ",
+                "First polish pass"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    "2026-10-22": {
+      "date": "2026-10-22",
+      "summary": "InfluencerMarketing.Ai: Influencer Marketing page design and polish.",
+      "projects": [
+        {
+          "name": "InfluencerMarketing.Ai",
+          "sections": [
+            {
+              "title": "Influencer Marketing page",
+              "items": [
+                "Hero film, pinned campaign stages with photos, growth-team tiles with films",
+                "Workflow band, AI search section, commerce row, comparison table and quotes",
+                "Phone pass and polish"
               ]
             }
           ]
@@ -500,7 +538,7 @@
     },
     "2026-10-18": {
       "subject": "Weekly summary · Oct 18 – Oct 24, 2026",
-      "body": "Hi,\n\nHere's a summary of what I worked on this week:\n\nInfluencerMarketing.Ai\n• Worked on the homepage of the new website\n• Continued the design of the new website\n\nStagwell AI\n• Changes on the Stagwell AI website\n\nThanks,\nJulian"
+      "body": "Hi,\n\nHere's a summary of what I worked on this week:\n\nInfluencerMarketing.Ai\n• Homepage: interactive dashboard mockups, a helix of creator faces, new footer, phone pass and polish\n• Built the first product page, Influencer Marketing: hero film, campaign stages, growth-team tiles, workflow and AI search sections, commerce row, comparison table, quotes and FAQ\n• Polish and phone passes across both pages\n\nStagwell AI\n• Search+ page: client copy feedback, a new hero picture, and phone spacing on the product pages\n\nThanks,\nJulian"
     }
   }
 }
