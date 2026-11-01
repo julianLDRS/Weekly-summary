@@ -521,6 +521,78 @@
           ]
         }
       ]
+    },
+    "2026-10-25": {
+      "date": "2026-10-25",
+      "summary": "InfluencerMarketing.Ai: mobile polish and the Consumer Intelligence page.",
+      "projects": [
+        {
+          "name": "InfluencerMarketing.Ai",
+          "sections": [
+            {
+              "title": "Website",
+              "items": [
+                "Mobile polish and platform logos",
+                "Built the Consumer Intelligence page"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    "2026-10-26": {
+      "date": "2026-10-26",
+      "summary": "InfluencerMarketing.Ai: platform and solution pages, new heroes and visuals.",
+      "projects": [
+        {
+          "name": "InfluencerMarketing.Ai",
+          "sections": [
+            {
+              "title": "Website",
+              "items": [
+                "Built the PR and Media page, six platform pages and four solution pages",
+                "New hero designs, photos and animations, navigation linked to the pages"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    "2026-10-28": {
+      "date": "2026-10-28",
+      "summary": "InfluencerMarketing.Ai: last product pages and templates.",
+      "projects": [
+        {
+          "name": "InfluencerMarketing.Ai",
+          "sections": [
+            {
+              "title": "Website",
+              "items": [
+                "The two missing product pages",
+                "Blog, legal and integrations page templates"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    "2026-10-29": {
+      "date": "2026-10-29",
+      "summary": "InfluencerMarketing.Ai: dashboards and footer.",
+      "projects": [
+        {
+          "name": "InfluencerMarketing.Ai",
+          "sections": [
+            {
+              "title": "Website",
+              "items": [
+                "Built the PR & Media dashboard and the LLM Visibility report mockups",
+                "Footer links and small fixes"
+              ]
+            }
+          ]
+        }
+      ]
     }
   },
   "weeks": {
@@ -539,6 +611,10 @@
     "2026-10-18": {
       "subject": "Weekly summary · Oct 18 – Oct 24, 2026",
       "body": "Hi,\n\nHere's a summary of what I worked on this week:\n\nInfluencerMarketing.Ai\n• Homepage: interactive dashboard mockups, a helix of creator faces, new footer, phone pass and polish\n• Built the first product page, Influencer Marketing: hero film, campaign stages, growth-team tiles, workflow and AI search sections, commerce row, comparison table, quotes and FAQ\n• Polish and phone passes across both pages\n\nStagwell AI\n• Search+ page: client copy feedback, a new hero picture, and phone spacing on the product pages\n\nThanks,\nJulian"
+    },
+    "2026-10-25": {
+      "subject": "Weekly summary · Oct 25 – Oct 31, 2026",
+      "body": "Hi,\n\nHere's a summary of what I worked on this week:\n\nInfluencerMarketing.Ai\n• Built the website's inner pages: Consumer Intelligence, PR and Media, six platform pages, four solution pages, and the remaining product pages\n• Blog, legal and integrations templates\n• New hero designs, photos and animations, plus dashboard mockups (PR & Media, LLM Visibility)\n• Mobile polish and navigation linked to the new pages\n\nNEW\n• Worked on the NEW by Stagwell AI presentation\n\nNewIntel\n• Changes on the pricing page\n\nThanks,\nJulian"
     }
   }
 }
