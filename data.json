@@ -593,6 +593,35 @@
           ]
         }
       ]
+    },
+    "2026-11-04": {
+      "date": "2026-11-04",
+      "summary": "InfluencerMarketing.Ai email signature. NEW logo updates and presentation pictures.",
+      "projects": [
+        {
+          "name": "InfluencerMarketing.Ai",
+          "sections": [
+            {
+              "title": "Email signature",
+              "items": [
+                "Designed the email signature"
+              ]
+            }
+          ]
+        },
+        {
+          "name": "NEW",
+          "sections": [
+            {
+              "title": "Brand",
+              "items": [
+                "Updated all the NEW company logos",
+                "Pictures for the NEW by Stagwell AI presentation"
+              ]
+            }
+          ]
+        }
+      ]
     }
   },
   "weeks": {
@@ -615,6 +644,10 @@
     "2026-10-25": {
       "subject": "Weekly summary · Oct 25 – Oct 31, 2026",
       "body": "Hi,\n\nHere's a summary of what I worked on this week:\n\nInfluencerMarketing.Ai\n• Built the website's inner pages: Consumer Intelligence, PR and Media, six platform pages, four solution pages, and the remaining product pages\n• Blog, legal and integrations templates\n• New hero designs, photos and animations, plus dashboard mockups (PR & Media, LLM Visibility)\n• Mobile polish and navigation linked to the new pages\n\nNEW\n• Worked on the NEW by Stagwell AI presentation\n\nNewIntel\n• Changes on the pricing page\n\nThanks,\nJulian"
+    },
+    "2026-11-01": {
+      "subject": "Weekly summary · Nov 1 – Nov 7, 2026",
+      "body": "Hi,\n\nHere's a summary of what I worked on this week:\n\nInfluencerMarketing.Ai\n• Designed the email signature\n\nNEW\n• Updated all the NEW company logos\n• Pictures for the NEW by Stagwell AI presentation\n\nThanks,\nJulian"
     }
   }
 }
