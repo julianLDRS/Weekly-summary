@@ -622,6 +622,77 @@
           ]
         }
       ]
+    },
+    "2026-11-01": {
+      "date": "2026-11-01",
+      "summary": "InfluencerMarketing.Ai: product page heroes, stages and decks.",
+      "projects": [
+        {
+          "name": "InfluencerMarketing.Ai",
+          "sections": [
+            {
+              "title": "Website",
+              "items": [
+                "Product pages: new heroes with films, stage sections as sticky card decks, phone fixes"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    "2026-11-02": {
+      "date": "2026-11-02",
+      "summary": "InfluencerMarketing.Ai: company pages.",
+      "projects": [
+        {
+          "name": "InfluencerMarketing.Ai",
+          "sections": [
+            {
+              "title": "Website",
+              "items": [
+                "Built the company pages: About, Careers, Contact and Security",
+                "UGC film row and phone carousels"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    "2026-11-03": {
+      "date": "2026-11-03",
+      "summary": "InfluencerMarketing.Ai: company pages, pricing and links.",
+      "projects": [
+        {
+          "name": "InfluencerMarketing.Ai",
+          "sections": [
+            {
+              "title": "Website",
+              "items": [
+                "Rebuilt About and Contact with the real contact form, team portraits",
+                "Pricing and comparison pages, product cards, every link on the site working"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    "2026-11-05": {
+      "date": "2026-11-05",
+      "summary": "InfluencerMarketing.Ai: by-role pages, comparisons, footer and menu.",
+      "projects": [
+        {
+          "name": "InfluencerMarketing.Ai",
+          "sections": [
+            {
+              "title": "Website",
+              "items": [
+                "Photos on the five by-role heroes, seven comparison pages, About page team",
+                "New footer and menu, directory and solution page updates"
+              ]
+            }
+          ]
+        }
+      ]
     }
   },
   "weeks": {
@@ -647,7 +718,7 @@
     },
     "2026-11-01": {
       "subject": "Weekly summary · Nov 1 – Nov 7, 2026",
-      "body": "Hi,\n\nHere's a summary of what I worked on this week:\n\nInfluencerMarketing.Ai\n• Designed the email signature\n\nNEW\n• Updated all the NEW company logos\n• Fixes on the NEW by Stagwell AI presentation\n\nThanks,\nJulian"
+      "body": "Hi,\n\nHere's a summary of what I worked on this week:\n\nInfluencerMarketing.Ai\n• Designed the email signature\n• Website: new product page heroes and stage sections, phone fixes\n• Built the company pages: About, Careers, Contact (with the real contact form) and Security\n• Pricing page, seven comparison pages, and the five by-role pages with photos\n• New footer and menu, and every link on the site now goes somewhere\n\nNEW\n• Updated all the NEW company logos\n• Fixes on the NEW by Stagwell AI presentation\n\nThanks,\nJulian"
     }
   }
 }
