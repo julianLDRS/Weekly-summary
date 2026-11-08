@@ -18,5 +18,6 @@ Julian's daily work log. Julian tells Claude what they worked on, and Claude add
 - Each project is its own entry with its own name. These are separate projects, never sub-items of each other: Stagwell AI, NewIntel, NEW, InfluencerMarketing.Ai, NEWPR.
 - Some work is done without Claude, so there's no record of it. Write it the way Julian describes it, with no invented detail, and don't ask for proof.
 - Work done with Claude can be checked in the repos, e.g. `git log` in `julianLDRS/stagwell-ai` for the Stagwell AI site, and `julianLDRS/imai-mql` for InfluencerMarketing.Ai MQL onboarding.
+- InfluencerMarketing.Ai website work: keep it to one simple line, e.g. "Web design for the new website". No page-by-page detail.
 - Write the weekly email in plain English, signed "Julian".
 - Answer Julian in English.
