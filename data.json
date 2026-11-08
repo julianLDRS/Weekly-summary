@@ -596,7 +596,7 @@
     },
     "2026-11-04": {
       "date": "2026-11-04",
-      "summary": "NEW: email signature, logo updates and presentation fixes.",
+      "summary": "NEW: email signature, logo updates and the updated presentation.",
       "projects": [
         {
           "name": "NEW",
@@ -606,7 +606,7 @@
               "items": [
                 "Designed the email signature",
                 "Updated all the NEW company logos",
-                "Fixes on the NEW by Stagwell AI presentation"
+                "Updated the whole NEW by Stagwell AI presentation"
               ]
             }
           ]
@@ -705,7 +705,7 @@
     },
     "2026-11-01": {
       "subject": "Weekly summary · Nov 1 – Nov 7, 2026",
-      "body": "Hi,\n\nHere's a summary of what I worked on this week:\n\nInfluencerMarketing.Ai\n• Web design for the new website\n\nNEW\n• Designed the email signature\n• Updated all the NEW company logos\n• Fixes on the NEW by Stagwell AI presentation\n\nThanks,\nJulian"
+      "body": "Hi,\n\nHere's a summary of what I worked on this week:\n\nInfluencerMarketing.Ai\n• Web design for the new website\n\nNEW\n• Designed the email signature\n• Updated all the NEW company logos\n• Updated the whole NEW by Stagwell AI presentation\n\nThanks,\nJulian"
     }
   }
 }
