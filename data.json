@@ -596,25 +596,15 @@
     },
     "2026-11-04": {
       "date": "2026-11-04",
-      "summary": "InfluencerMarketing.Ai email signature. NEW logo updates and presentation fixes.",
+      "summary": "NEW: email signature, logo updates and presentation fixes.",
       "projects": [
-        {
-          "name": "InfluencerMarketing.Ai",
-          "sections": [
-            {
-              "title": "Email signature",
-              "items": [
-                "Designed the email signature"
-              ]
-            }
-          ]
-        },
         {
           "name": "NEW",
           "sections": [
             {
               "title": "Brand",
               "items": [
+                "Designed the email signature",
                 "Updated all the NEW company logos",
                 "Fixes on the NEW by Stagwell AI presentation"
               ]
@@ -718,7 +708,7 @@
     },
     "2026-11-01": {
       "subject": "Weekly summary · Nov 1 – Nov 7, 2026",
-      "body": "Hi,\n\nHere's a summary of what I worked on this week:\n\nInfluencerMarketing.Ai\n• Designed the email signature\n• Website: new product page heroes and stage sections, phone fixes\n• Built the company pages: About, Careers, Contact (with the real contact form) and Security\n• Pricing page, seven comparison pages, and the five by-role pages with photos\n• New footer and menu, and every link on the site now goes somewhere\n\nNEW\n• Updated all the NEW company logos\n• Fixes on the NEW by Stagwell AI presentation\n\nThanks,\nJulian"
+      "body": "Hi,\n\nHere's a summary of what I worked on this week:\n\nInfluencerMarketing.Ai\n• Website: new product page heroes and stage sections, phone fixes\n• Built the company pages: About, Careers, Contact (with the real contact form) and Security\n• Pricing page, seven comparison pages, and the five by-role pages with photos\n• New footer and menu, and every link on the site now goes somewhere\n\nNEW\n• Designed the email signature\n• Updated all the NEW company logos\n• Fixes on the NEW by Stagwell AI presentation\n\nThanks,\nJulian"
     }
   }
 }
