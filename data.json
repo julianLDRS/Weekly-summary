@@ -698,6 +698,24 @@
           ]
         }
       ]
+    },
+    "2026-11-16": {
+      "date": "2026-11-16",
+      "summary": "Stagwell AI: landing page fixes and two versions.",
+      "projects": [
+        {
+          "name": "Stagwell AI",
+          "sections": [
+            {
+              "title": "Landing page",
+              "items": [
+                "Fixes on the landing page",
+                "Designed two versions of the landing page"
+              ]
+            }
+          ]
+        }
+      ]
     }
   },
   "weeks": {
@@ -727,7 +745,7 @@
     },
     "2026-11-15": {
       "subject": "Weekly summary · Nov 15 – Nov 21, 2026",
-      "body": "Hi,\n\nHere's a summary of what I worked on this week:\n\nLDRS\n• Three presentations: two new templates and a redesign of the creds deck\n\nThanks,\nJulian"
+      "body": "Hi,\n\nHere's a summary of what I worked on this week:\n\nLDRS\n• Three presentations: two new templates and a redesign of the creds deck\n\nStagwell AI\n• Landing page fixes, and two versions of the landing page\n\nThanks,\nJulian"
     }
   }
 }
