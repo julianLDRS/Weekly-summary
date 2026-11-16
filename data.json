@@ -680,6 +680,24 @@
           ]
         }
       ]
+    },
+    "2026-11-15": {
+      "date": "2026-11-15",
+      "summary": "LDRS: three presentations, two templates and the redesigned creds deck.",
+      "projects": [
+        {
+          "name": "LDRS",
+          "sections": [
+            {
+              "title": "Presentations",
+              "items": [
+                "Designed two presentation templates",
+                "Redesigned the creds deck"
+              ]
+            }
+          ]
+        }
+      ]
     }
   },
   "weeks": {
@@ -706,6 +724,10 @@
     "2026-11-01": {
       "subject": "Weekly summary · Nov 1 – Nov 7, 2026",
       "body": "Hi,\n\nHere's a summary of what I worked on this week:\n\nInfluencerMarketing.Ai\n• Web design for the new website\n\nNEW\n• Designed the email signature\n• Updated all the NEW company logos\n• Updated the whole NEW by Stagwell AI presentation\n\nThanks,\nJulian"
+    },
+    "2026-11-15": {
+      "subject": "Weekly summary · Nov 15 – Nov 21, 2026",
+      "body": "Hi,\n\nHere's a summary of what I worked on this week:\n\nLDRS\n• Three presentations: two new templates and a redesign of the creds deck\n\nThanks,\nJulian"
     }
   }
 }
