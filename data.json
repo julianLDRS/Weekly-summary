@@ -701,7 +701,7 @@
     },
     "2026-11-16": {
       "date": "2026-11-16",
-      "summary": "Stagwell AI: landing page fixes and two versions. QA on NEWPR, NewIntel, New Index and Do Real.",
+      "summary": "Stagwell AI landing page. NewIntel pricing and content update. QA on NEWPR, NewIntel, New Index and Do Real.",
       "projects": [
         {
           "name": "Stagwell AI",
@@ -729,6 +729,18 @@
         {
           "name": "NewIntel",
           "sections": [
+            {
+              "title": "Pricing & content update",
+              "items": [
+                "Pricing updated to match the app: $155 / $364 / $728 monthly, with new plan details on all 4 plans",
+                "Added \"billed monthly · cancel anytime\" under the monthly prices",
+                "FAQ updated with the app's answers; billing and invoice questions hidden",
+                "Trial line changed to \"7-day free trial, cancel anytime\", and \"Self-serve from\" to $155/mo",
+                "Testimonials hidden on Home and Pricing",
+                "YouTube removed from all ad-coverage text (Meta + TikTok only)",
+                "Published to newintel.ai"
+              ]
+            },
             {
               "title": "QA",
               "items": [
@@ -789,7 +801,7 @@
     },
     "2026-11-15": {
       "subject": "Weekly summary · Nov 15 – Nov 21, 2026",
-      "body": "Hi,\n\nHere's a summary of what I worked on this week:\n\nLDRS\n• Three presentations: two new templates and a redesign of the creds deck\n\nStagwell AI\n• Landing page fixes, and two versions of the landing page\n\nNEWPR, NewIntel, New Index and Do Real\n• QA on all four sites: links and broken items\n\nThanks,\nJulian"
+      "body": "Hi,\n\nHere's a summary of what I worked on this week:\n\nLDRS\n• Three presentations: two new templates and a redesign of the creds deck\n\nStagwell AI\n• Landing page fixes, and two versions of the landing page\n\nNewIntel\n• Pricing and content update to match the app: new prices and plan details, FAQ, trial line, testimonials hidden, YouTube removed from ad coverage. Published to newintel.ai\n\nNEWPR, NewIntel, New Index and Do Real\n• QA on all four sites: links and broken items\n\nThanks,\nJulian"
     }
   }
 }
