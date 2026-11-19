@@ -812,7 +812,7 @@
     },
     "2026-11-18": {
       "date": "2026-11-18",
-      "summary": "InfluencerMarketing.Ai: web design.",
+      "summary": "InfluencerMarketing.Ai: website polish and adjustments.",
       "projects": [
         {
           "name": "InfluencerMarketing.Ai",
@@ -820,7 +820,7 @@
             {
               "title": "Website",
               "items": [
-                "Web design for the new website: seven module pages, creator faces on the mockups, phone fixes"
+                "Polish and adjustments on the website: layouts, pages and mockups (in progress)"
               ]
             }
           ]
@@ -855,7 +855,7 @@
     },
     "2026-11-15": {
       "subject": "Weekly summary · Nov 15 – Nov 21, 2026",
-      "body": "Hi,\n\nHere's a summary of what I worked on this week:\n\nLDRS\n• Three presentations: two new templates and a redesign of the creds deck\n\nStagwell AI\n• Landing page fixes, and two versions of the landing page\n• UX audit and competitive analysis: homepage and Book a Demo review, competitors, Mixpanel data, and recommendations for the team meeting\n\nInfluencerMarketing.Ai\n• Web design for the new website\n\nNewIntel\n• Pricing and content update to match the app: new prices and plan details, FAQ, trial line, testimonials hidden, YouTube removed from ad coverage. Published to newintel.ai\n\nNewIntel, New Voices, New Index and Doreel\n• Pre-launch QA of all four websites: design, layouts, navigation, links and buttons. Found broken links, missing pages and missing Privacy Policy and Terms content, and documented every fix in an Excel tracking sheet\n\nThanks,\nJulian"
+      "body": "Hi,\n\nHere's a summary of what I worked on this week:\n\nLDRS\n• Three presentations: two new templates and a redesign of the creds deck\n\nStagwell AI\n• Landing page fixes, and two versions of the landing page\n• UX audit and competitive analysis: homepage and Book a Demo review, competitors, Mixpanel data, and recommendations for the team meeting\n\nInfluencerMarketing.Ai\n• Polish and adjustments on the website: layouts, pages and mockups (in progress)\n\nNewIntel\n• Pricing and content update to match the app: new prices and plan details, FAQ, trial line, testimonials hidden, YouTube removed from ad coverage. Published to newintel.ai\n\nNewIntel, New Voices, New Index and Doreel\n• Pre-launch QA of all four websites: design, layouts, navigation, links and buttons. Found broken links, missing pages and missing Privacy Policy and Terms content, and documented every fix in an Excel tracking sheet\n\nThanks,\nJulian"
     }
   }
 }
