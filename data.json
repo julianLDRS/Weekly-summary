@@ -701,7 +701,7 @@
     },
     "2026-11-16": {
       "date": "2026-11-16",
-      "summary": "Stagwell AI landing page. NewIntel pricing and content update. QA on NEWPR, NewIntel, New Index and Do Real.",
+      "summary": "Stagwell AI landing page. NewIntel pricing update. Pre-launch QA on NewIntel, New Voices, New Index and Doril.",
       "projects": [
         {
           "name": "Stagwell AI",
@@ -711,17 +711,6 @@
               "items": [
                 "Fixes on the landing page",
                 "Designed two versions of the landing page"
-              ]
-            }
-          ]
-        },
-        {
-          "name": "NEWPR",
-          "sections": [
-            {
-              "title": "QA",
-              "items": [
-                "QA of the site: links and broken items"
               ]
             }
           ]
@@ -742,9 +731,28 @@
               ]
             },
             {
-              "title": "QA",
+              "title": "Pre-launch website QA",
               "items": [
-                "QA of the site: links and broken items"
+                "Pre-launch QA review of the website",
+                "Checked visual consistency, layouts and possible design issues",
+                "Tested navigation, internal and external links, and buttons",
+                "Found broken links, missing pages, and missing Privacy Policy and Terms of Service content",
+                "Documented all findings and required fixes in a detailed Excel tracking sheet"
+              ]
+            }
+          ]
+        },
+        {
+          "name": "New Voices",
+          "sections": [
+            {
+              "title": "Pre-launch website QA",
+              "items": [
+                "Pre-launch QA review of the website",
+                "Checked visual consistency, layouts and possible design issues",
+                "Tested navigation, internal and external links, and buttons",
+                "Found broken links, missing pages, and missing Privacy Policy and Terms of Service content",
+                "Documented all findings and required fixes in a detailed Excel tracking sheet"
               ]
             }
           ]
@@ -753,20 +761,28 @@
           "name": "New Index",
           "sections": [
             {
-              "title": "QA",
+              "title": "Pre-launch website QA",
               "items": [
-                "QA of the site: links and broken items"
+                "Pre-launch QA review of the website",
+                "Checked visual consistency, layouts and possible design issues",
+                "Tested navigation, internal and external links, and buttons",
+                "Found broken links, missing pages, and missing Privacy Policy and Terms of Service content",
+                "Documented all findings and required fixes in a detailed Excel tracking sheet"
               ]
             }
           ]
         },
         {
-          "name": "Do Real",
+          "name": "Doril",
           "sections": [
             {
-              "title": "QA",
+              "title": "Pre-launch website QA",
               "items": [
-                "QA of the site: links and broken items"
+                "Pre-launch QA review of the website",
+                "Checked visual consistency, layouts and possible design issues",
+                "Tested navigation, internal and external links, and buttons",
+                "Found broken links, missing pages, and missing Privacy Policy and Terms of Service content",
+                "Documented all findings and required fixes in a detailed Excel tracking sheet"
               ]
             }
           ]
@@ -822,7 +838,7 @@
     },
     "2026-11-15": {
       "subject": "Weekly summary · Nov 15 – Nov 21, 2026",
-      "body": "Hi,\n\nHere's a summary of what I worked on this week:\n\nLDRS\n• Three presentations: two new templates and a redesign of the creds deck\n\nStagwell AI\n• Landing page fixes, and two versions of the landing page\n• UX audit and competitive analysis: homepage and Book a Demo review, competitors, Mixpanel data, and recommendations for the team meeting\n\nNewIntel\n• Pricing and content update to match the app: new prices and plan details, FAQ, trial line, testimonials hidden, YouTube removed from ad coverage. Published to newintel.ai\n\nNEWPR, NewIntel, New Index and Do Real\n• QA on all four sites: links and broken items\n\nThanks,\nJulian"
+      "body": "Hi,\n\nHere's a summary of what I worked on this week:\n\nLDRS\n• Three presentations: two new templates and a redesign of the creds deck\n\nStagwell AI\n• Landing page fixes, and two versions of the landing page\n• UX audit and competitive analysis: homepage and Book a Demo review, competitors, Mixpanel data, and recommendations for the team meeting\n\nNewIntel\n• Pricing and content update to match the app: new prices and plan details, FAQ, trial line, testimonials hidden, YouTube removed from ad coverage. Published to newintel.ai\n\nNewIntel, New Voices, New Index and Doril\n• Pre-launch QA of all four websites: design, layouts, navigation, links and buttons. Found broken links, missing pages and missing Privacy Policy and Terms content, and documented every fix in an Excel tracking sheet\n\nThanks,\nJulian"
     }
   }
 }
